@@ -1,1 +1,1 @@
-web: gunicorn shanta-project-hello-world.wsgi
+web: gunicorn shanta_project_hello_world.wsgi
